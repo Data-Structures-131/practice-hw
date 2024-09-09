@@ -1,3 +1,0 @@
-/workspaces/practice-hw/build/CMakeFiles/rebuild_cache.dir
-/workspaces/practice-hw/build/CMakeFiles/edit_cache.dir
-/workspaces/practice-hw/build/CMakeFiles/main.dir
